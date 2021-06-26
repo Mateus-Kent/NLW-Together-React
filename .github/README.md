@@ -1,6 +1,7 @@
-![header](https://github.com/Mateus-Kent/NLW-Together-React/tree/main/.github/header.png)
+![header](https://github.com/Mateus-Kent/NLW-Together-React/blob/main/.github/header.png)
 
 ## 💻 Preview
+![preview](https://github.com/Mateus-Kent/NLW-Together-React/blob/main/.github/preview.png)
 
 
 This project was developed with the following technologies:
