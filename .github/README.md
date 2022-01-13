@@ -20,7 +20,7 @@ This project was developed with the following technologies:
 
 ## 🚀 How to run
 
-- Clone the repository `git clone https://github.com/arthurluciano/NLW6-ReactJS`
+- Clone the repository `git clone https://github.com/Mateus-Kent/NLW-Together-React.git`
 - Install dependencies using `yarn`
 - Start the server with `yarn start`
 
